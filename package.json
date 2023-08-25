@@ -1,10 +1,8 @@
 {
-  "name": "daves-demo-action",
+  "name": "Mas",
   "version": "1.0.0",
   "description": "Repository for my YouTube Video Series on how to create and released actions.",
-  "main": "index.js",
   "scripts": {
-    "build": "rm -rf dist && node esbuild.cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +11,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Masoud-Ghodrati/demo-action-sr/issues"
   },
