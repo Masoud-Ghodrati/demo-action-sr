@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davelosert/daves-demo-action.git"
+    "url": "git+https://https://github.com/Masoud-Ghodrati/demo-action-sr.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davelosert/daves-demo-action/issues"
+    "url": "https://https://github.com/Masoud-Ghodrati/demo-action-sr/issues"
   },
-  "homepage": "https://github.com/davelosert/daves-demo-action#readme",
+  "homepage": "https://https://github.com/Masoud-Ghodrati/demo-action-sr#readme",
   "dependencies": {
     "@actions/core": "1.9.1"
   },
