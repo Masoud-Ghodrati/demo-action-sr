@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/Masoud-Ghodrati/demo-action-sr.git"
+    "url": "git+https://github.com/Masoud-Ghodrati/demo-action-sr.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://https://github.com/Masoud-Ghodrati/demo-action-sr/issues"
+    "url": "https://github.com/Masoud-Ghodrati/demo-action-sr/issues"
   },
-  "homepage": "https://https://github.com/Masoud-Ghodrati/demo-action-sr#readme",
+  "homepage": "https://github.com/Masoud-Ghodrati/demo-action-sr#readme",
   "dependencies": {
     "@actions/core": "1.9.1"
   },
