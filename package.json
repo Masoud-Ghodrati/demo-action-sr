@@ -1,6 +1,6 @@
 {
   "name": "Mas",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Repository for my YouTube Video Series on how to create and released actions.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
